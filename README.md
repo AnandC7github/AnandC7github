@@ -3,7 +3,7 @@
 I'm a Front End Web developer from Kozhikode, currently studying MCA in Kochi.
 
 - 🌱 I’m currently learning: Python Flask, React.js, MongoDB
-- 💡 Exploring: Machine Learning, Data Science, Mobile App Development, AI, Cloud Technologies
+- 💡 Going to Explore: Machine Learning, Data Science, AI, Cloud Technologies, Mobile App Development, Firebase, FastAPI
 - 🚀 I'm passionate about: Android Studio, Java, Python, AI, Web Developement
 - 🌐 Planning future adventures in: Full Stack Development, Mobile App Development
 
