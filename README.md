@@ -40,14 +40,14 @@ I'm a Front End Web developer from Kozhikode, currently studying MCA in Kochi.
 - ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap 5 ![Skill](https://img.shields.io/badge/Skill-Intermediate-yellow)
 
 ### Web Frameworks
-- ![Django](https://img.icons8.com/ios-filled/50/000000/django.png) Django ![Skill](https://img.shields.io/badge/Skill-Starter-blue)
+- ![Django](https://img.icons8.com/ios-filled/50/000000/django.png) Django ![Skill](https://img.shields.io/badge/Skill-Beginner-blue)
 - ![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png) Python Flask ![Skill](https://img.shields.io/badge/Skill-Intermediate-yellow)
 - ![Laravel](https://img.icons8.com/ios-filled/50/000000/laravel.png) Laravel ![Skill](https://img.shields.io/badge/Skill-Intermediate-yellow)
-- ![ReactJS](https://img.icons8.com/ios-filled/50/000000/react-native.png) ReactJS ![Skill](https://img.shields.io/badge/Skill-Starter-blue)
+- ![ReactJS](https://img.icons8.com/ios-filled/50/000000/react-native.png) ReactJS ![Skill](https://img.shields.io/badge/Skill-Beginner-blue)
 
 ### Databases
 - ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png) MySQL ![Skill](https://img.shields.io/badge/Skill-Expert-brightgreen)
-- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB ![Skill](https://img.shields.io/badge/Skill-Starter-blue)
+- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB ![Skill](https://img.shields.io/badge/Skill-Beginner-blue)
 - ![SQLPlus](https://img.icons8.com/windows/32/000000/sql.png) SQLPlus ![Skill](https://img.shields.io/badge/Skill-Expert-brightgreen)
 
 
