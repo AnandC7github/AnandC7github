@@ -65,7 +65,7 @@ I'm a Front End Web developer from Kozhikode, currently studying MCA in Kochi.
 
 ## Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnandC7github&)****
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnandC7github&)
 
 ## Connect with Me
 
