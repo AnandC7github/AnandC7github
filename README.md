@@ -26,19 +26,30 @@ I'm a Front End Web developer from Kozhikode, currently studying MCA in Kochi.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnandC7github&)
 
-![Contributions Graph](https://activity-graph.herokuapp.com/graph?username=AnandC7github&theme=github)
 
 
 ## Programming Languages and Frameworks
 
 ### Languages
- ![C](https://img.icons8.com/color/48/000000/c-programming.png)  C,  ![HTML](https://img.icons8.com/color/48/000000/html-5.png)  HTML,  ![CSS](https://img.icons8.com/color/48/000000/css3.png)  CSS,  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java , ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript , ![Python](https://img.icons8.com/color/48/000000/python.png) Python , ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap 5
+- ![C](https://img.icons8.com/color/48/000000/c-programming.png) C ![Skill](https://img.shields.io/badge/Skill-Intermediate-yellow)
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML ![Skill](https://img.shields.io/badge/Skill-Expert-brightgreen)
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS ![Skill](https://img.shields.io/badge/Skill-Intermediate-yellow)
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java ![Skill](https://img.shields.io/badge/Skill-Intermediate-yellow)
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript ![Skill](https://img.shields.io/badge/Skill-Intermediate-yellow)
+- ![Python](https://img.icons8.com/color/48/000000/python.png) Python ![Skill](https://img.shields.io/badge/Skill-Intermediate-yellow)
+- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap 5 ![Skill](https://img.shields.io/badge/Skill-Intermediate-yellow)
 
 ### Web Frameworks
- ![Django](https://img.icons8.com/ios-filled/50/000000/django.png) Django ,  ![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png) Python Flask , ![Laravel](https://img.icons8.com/ios-filled/50/000000/laravel.png) Laravel , ![ReactJS](https://img.icons8.com/ios-filled/50/000000/react-native.png) ReactJS
+- ![Django](https://img.icons8.com/ios-filled/50/000000/django.png) Django ![Skill](https://img.shields.io/badge/Skill-Starter-blue)
+- ![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png) Python Flask ![Skill](https://img.shields.io/badge/Skill-Intermediate-yellow)
+- ![Laravel](https://img.icons8.com/ios-filled/50/000000/laravel.png) Laravel ![Skill](https://img.shields.io/badge/Skill-Intermediate-yellow)
+- ![ReactJS](https://img.icons8.com/ios-filled/50/000000/react-native.png) ReactJS ![Skill](https://img.shields.io/badge/Skill-Starter-blue)
 
 ### Databases
- ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png) MySQL ,  ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB ,  ![SQLPlus](https://img.icons8.com/windows/32/000000/sql.png) SQLPlus
+- ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png) MySQL ![Skill](https://img.shields.io/badge/Skill-Expert-brightgreen)
+- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB ![Skill](https://img.shields.io/badge/Skill-Starter-blue)
+- ![SQLPlus](https://img.icons8.com/windows/32/000000/sql.png) SQLPlus ![Skill](https://img.shields.io/badge/Skill-Expert-brightgreen)
+
 
 
 ## Development Tools
