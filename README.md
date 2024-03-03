@@ -12,22 +12,6 @@ I'm a Front End Web developer from Kozhikode, currently studying MCA in Kochi.
 - Total Repositories
   ![Total Repositories](https://img.shields.io/badge/Total-58-brightgreen?style=flat-square)
 
-## GitHub Stats
-
-[![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnandC7github&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)](https://github.com/AnandC7github)
-
-
-## Most Used Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnandC7github&layout=compact&theme=radical)](https://github.com/AnandC7github)
-
-
-## Contributions
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnandC7github&)
-
-
-
 ## Programming Languages and Frameworks
 
 ### Languages
@@ -51,7 +35,6 @@ I'm a Front End Web developer from Kozhikode, currently studying MCA in Kochi.
 - ![SQLPlus](https://img.icons8.com/windows/32/000000/sql.png) SQLPlus ![Skill](https://img.shields.io/badge/Skill-Expert-brightgreen)
 
 
-
 ## Development Tools
 
 [![Google Colab](https://img.shields.io/badge/Google_Colab-orange?logo=google-colab&style=flat-square)](https://colab.research.google.com/)
@@ -70,7 +53,19 @@ I'm a Front End Web developer from Kozhikode, currently studying MCA in Kochi.
 [![Replit](https://img.shields.io/badge/Replit-darkgrey?logo=replit&style=flat-square)](https://replit.com/)
 [![Render](https://img.shields.io/badge/Render-grey?logo=render&style=flat-square)](https://render.com/)
 
+## GitHub Stats
 
+[![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnandC7github&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)](https://github.com/AnandC7github)
+
+
+## Most Used Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnandC7github&layout=compact&theme=radical)](https://github.com/AnandC7github)
+
+
+## Contributions
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnandC7github&)****
 
 ## Connect with Me
 
