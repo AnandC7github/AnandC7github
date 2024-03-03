@@ -67,6 +67,7 @@ I'm a Front End Web developer from Kozhikode, currently studying MCA in Kochi.
 [![SQLPlus](https://img.shields.io/badge/SQLPlus-green?style=flat-square)](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html)
 [![Apache Netbeans](https://img.shields.io/badge/Apache_Netbeans-blue?logo=apache-netbeans-ide&style=flat-square)](https://netbeans.apache.org/)
 [![Orange](https://img.shields.io/badge/Orange-brown?style=flat-square)](https://orangedatamining.com/)
+[![Replit](https://img.shields.io/badge/Replit-darkgrey?logo=replit&style=flat-square)](https://replit.com/)
 
 
 
