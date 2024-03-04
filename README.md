@@ -46,8 +46,9 @@ I'm a Front End Web developer from Kozhikode, currently studying MCA in Kochi.
 [![Apache Netbeans](https://img.shields.io/badge/Apache_Netbeans-blue?logo=apache-netbeans-ide&style=flat-square)](https://netbeans.apache.org/) ,
 [![Orange](https://img.shields.io/badge/Orange-brown?style=flat-square)](https://orangedatamining.com/) ,
 [![Replit](https://img.shields.io/badge/Replit-darkgrey?logo=replit&style=flat-square)](https://replit.com/) ,
+[![XAMPP](https://img.shields.io/badge/XAMPP-red?style=flat-square)](https://www.apachefriends.org/index.html) [XAMPP Control Panel](https://www.apachefriends.org/index.html) ,
+[![RStudio](https://img.shields.io/badge/RStudio-blue?logo=rstudio&style=flat-square)](https://www.rstudio.com/) , 
 [![Render](https://img.shields.io/badge/Render-grey?logo=render&style=flat-square)](https://render.com/)
-[![RStudio](https://img.shields.io/badge/RStudio-blue?logo=rstudio&style=flat-square)](https://www.rstudio.com/)
 
 
 ## GitHub Stats
