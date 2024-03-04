@@ -40,13 +40,12 @@ I'm a Front End Web developer from Kozhikode, currently studying MCA in Kochi.
 [![Dev C++](https://img.shields.io/badge/Dev_C++-purple?style=flat-square)](https://sourceforge.net/projects/orwelldevcpp/) ,
 [![Notepad](https://img.shields.io/badge/Notepad-lightgrey?logo=notepad&style=flat-square)](https://notepad-plus-plus.org/) ,
 [![Notepad++](https://img.shields.io/badge/Notepad++-lightgrey?logo=notepadplusplus&style=flat-square)](https://notepad-plus-plus.org/) ,
-[![XAMPP](https://img.shields.io/badge/XAMPP-red?style=flat-square)](https://www.apachefriends.org/index.html) ,
 [![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-black?logo=github&style=flat-square)](https://desktop.github.com/) ,
 [![SQLPlus](https://img.shields.io/badge/SQLPlus-green?style=flat-square)](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html) ,
 [![Apache Netbeans](https://img.shields.io/badge/Apache_Netbeans-blue?logo=apache-netbeans-ide&style=flat-square)](https://netbeans.apache.org/) ,
 [![Orange](https://img.shields.io/badge/Orange-brown?style=flat-square)](https://orangedatamining.com/) ,
 [![Replit](https://img.shields.io/badge/Replit-darkgrey?logo=replit&style=flat-square)](https://replit.com/) ,
-[![XAMPP](https://img.shields.io/badge/XAMPP-red?style=flat-square)](https://www.apachefriends.org/index.html) ,
+[![XAMPP](https://img.shields.io/badge/XAMPP-red?style=flat-square)](https://www.apachefriends.org/index.html) [![XAMPP Control Panel](https://img.shields.io/badge/XAMPP_Control_Panel-red?logo=xampp&style=flat-square)](https://www.apachefriends.org/index.html) ,
 [![RStudio](https://img.shields.io/badge/RStudio-blue?logo=rstudio&style=flat-square)](https://www.rstudio.com/) , 
 [![Render](https://img.shields.io/badge/Render-grey?logo=render&style=flat-square)](https://render.com/)
 
