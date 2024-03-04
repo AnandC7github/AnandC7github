@@ -24,7 +24,7 @@ I'm a Front End Web developer from Kozhikode, currently studying MCA in Kochi.
 ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png) MySQL ![Skill](https://img.shields.io/badge/Skill-Expert-brightgreen) ,
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB ![Skill](https://img.shields.io/badge/Skill-Beginner-blue) ,
 ![SQLPlus](https://img.icons8.com/windows/32/000000/sql.png) SQLPlus ![Skill](https://img.shields.io/badge/Skill-Expert-brightgreen) ,
-[![SQLite](https://img.icons8.com/color/48/000000/sql.png)](https://www.sqlite.org/) ![Skill](https://img.shields.io/badge/Skill-Intermediate-blue)
+[![SQLite](https://img.icons8.com/color/48/000000/sql.png)](https://www.sqlite.org/) SQLite ![Skill](https://img.shields.io/badge/Skill-Intermediate-blue)
 
 
 
