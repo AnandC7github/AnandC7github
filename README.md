@@ -11,6 +11,9 @@ I'm a Front End Web developer from Kozhikode, currently studying MCA in Kochi.
 
 - Total Repositories
   ![Total Repositories](https://img.shields.io/badge/Total-58-brightgreen?style=flat-square)
+- Profile Views
+  ![Profile Views](https://komarev.com/ghpvc/?username=AnandC7github&color=blue)
+
 
 ## Programming Languages and Frameworks
 
